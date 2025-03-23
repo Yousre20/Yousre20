@@ -2,7 +2,7 @@
 
 
 ## 🚀 About Me
-I'm a COMPUTER ENGINEER and a full-stack developer 
+I'm a COMPUTER ENGINEER and a Full-STACK DEVOLPER 
 ## 🛠️ Skills
 - **Languages**: JavaScript, CSS, HTML , C++
 - **Tools**: VSCode, Git
